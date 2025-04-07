@@ -1,15 +1,15 @@
 {
     "data": [
         {
-            "Nombre": "retrobeat.mp3",
+            "Nombre": "retrobeat (mp3)",
             "URL": "https://raw.githubusercontent.com/Newell3D/listadocanciones/0f1a66298fe33448a822f170461a9aa8961ef628/retrobeat.mp3"
         },
         {
-            "Nombre": "retrogame.mp3",
+            "Nombre": "retrogame (mp3)",
             "URL": "https://raw.githubusercontent.com/Newell3D/listadocanciones/0f1a66298fe33448a822f170461a9aa8961ef628/retrogame.mp3"
         },
         {
-            "Nombre": "synretro.mp3",
+            "Nombre": "synretro (mp3)",
             "URL": "https://raw.githubusercontent.com/Newell3D/listadocanciones/0f1a66298fe33448a822f170461a9aa8961ef628/synretro.mp3"
         }
     ]
